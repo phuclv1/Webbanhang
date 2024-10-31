@@ -1,7 +1,7 @@
 # Website Bán Quần Áo
 Website thương mại điện tử cho phép người dùng mua bán các loại quần áo đa dạng. Website cung cấp trải nghiệm mua sắm dễ dàng với các tính năng như duyệt sản phẩm, lọc sản phẩm, quản lý giỏ hàng và quy trình thanh toán mượt mà.
 # Giới thiệu
-  - Bài Tập lớn môn lạp trình web bằng PHP.
+  - Bài Tập lớn môn lập trình web bằng PHP.
   - Nhóm 06.
 # Tính năng:
   - Xác thực người dùng: Đăng ký, đăng nhập và quản lý tài khoản cá nhân an toàn.
